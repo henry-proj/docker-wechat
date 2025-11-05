@@ -2,7 +2,6 @@
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 <menu id="root-menu" label="MENU">
 <item label="xterm" icon="/usr/share/pixmaps/xterm-color_48x48.xpm"><action name="Execute"><command>/usr/bin/xterm</command></action></item>
-<item label="fcitx5" icon="/usr/share/icons/hicolor/48x48/apps/org.fcitx.Fcitx5.png"><action name="Execute"><command>/usr/bin/fcitx5</command></action></item>
 <item label="wechat" icon="/usr/share/icons/hicolor/48x48/apps/wechat.png"><action name="Execute"><command>/usr/bin/wrapped-wechat</command></action></item>
 </menu>
 </openbox_menu>

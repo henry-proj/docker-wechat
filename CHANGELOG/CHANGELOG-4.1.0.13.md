@@ -1,16 +1,20 @@
 <!-- BEGIN MUNGE: GENERATED_TOC -->
-- [v4.1.0.13](#v4.1.0.13)
-  - [Changelog since v4.0.1.11](#changelog-since-v4.0.1.11)
+- [v4.1.0.13](#v41013)
+  - [Version](#version)
+  - [Changelog since v4.0.1.11](#changelog-since-v40111)
     - [Other notable changes](#other-notable-changes)
-- [v4.0.1.11](#v4.0.1.11)
-  - [Changelog since v4.0.1.7](#changelog-since-v4.0.1.7)
-    - [Other notable changes](#other-notable-changes)
-- [v4.0.1.7](#v4.0.1.7)
-  - [Changelog since v4.0.0.30](#changelog-since-v4.0.0.30)
-    - [Other notable changes](#other-notable-changes)
-- [v4.0.0.30](#v4.0.0.30)
-  - [Changelog since v1.0.0.0](#changelog-since-v1.0.0.0)
-    - [Other notable changes](#other-notable-changes)
+- [v4.0.1.11](#v40111)
+  - [Version](#version-1)
+  - [Changelog since v4.0.1.7](#changelog-since-v4017)
+    - [Other notable changes](#other-notable-changes-1)
+- [v4.0.1.7](#v4017)
+  - [Version](#version-2)
+  - [Changelog since v4.0.0.30](#changelog-since-v40030)
+    - [Other notable changes](#other-notable-changes-2)
+- [v4.0.0.30](#v40030)
+  - [Version](#version-3)
+  - [Changelog since v1.0.0.0](#changelog-since-v1000)
+    - [Other notable changes](#other-notable-changes-3)
 <!-- END MUNGE: GENERATED_TOC -->
 
 <!-- NEW RELEASE NOTES ENTRY -->
@@ -18,6 +22,11 @@
 # v4.1.0.13
 ## Version
 - v4.1.0.13
+
+## Changelog since v4.0.1.11
+### Other notable changes
+- Wechat版本更新为4.1.0.13
+- 启用KasmVNC, 全面转向Selkies
 
 # v4.0.1.11
 ## Version
